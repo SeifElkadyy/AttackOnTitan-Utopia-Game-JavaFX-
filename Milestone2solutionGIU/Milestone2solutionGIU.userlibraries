@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="bio.singa.javafx">
+    <archive path="C:/Users/User/.m2/repository/bio/singa/singa-javafx/0.7.0/singa-javafx-0.7.0.jar" />
+    <archive path="C:/Users/User/.m2/repository/org/openjfx/javafx-controls/11/javafx-controls-11.jar" />
+    <archive path="C:/Users/User/.m2/repository/org/openjfx/javafx-controls/11/javafx-controls-11-win.jar" />
+    <archive path="C:/Users/User/.m2/repository/org/openjfx/javafx-graphics/11/javafx-graphics-11.jar" />
+    <archive path="C:/Users/User/.m2/repository/org/openjfx/javafx-graphics/11/javafx-graphics-11-win.jar" />
+    <archive path="C:/Users/User/.m2/repository/org/openjfx/javafx-base/11/javafx-base-11.jar" />
+    <archive path="C:/Users/User/.m2/repository/org/openjfx/javafx-base/11/javafx-base-11-win.jar" />
+    <archive path="C:/Users/User/.m2/repository/bio/singa/singa-chemistry/0.7.0/singa-chemistry-0.7.0.jar" />
+    <archive path="C:/Users/User/.m2/repository/bio/singa/singa-features/0.7.0/singa-features-0.7.0.jar" />
+    <archive path="C:/Users/User/.m2/repository/tech/units/indriya/1.2/indriya-1.2.jar" />
+    <archive path="C:/Users/User/.m2/repository/javax/measure/unit-api/1.0/unit-api-1.0.jar" />
+    <archive path="C:/Users/User/.m2/repository/tech/uom/lib/uom-lib-common/1.1/uom-lib-common-1.1.jar" />
+    <archive path="C:/Users/User/.m2/repository/bio/singa/singa-mathematics/0.7.0/singa-mathematics-0.7.0.jar" />
+    <archive path="C:/Users/User/.m2/repository/bio/singa/singa-core/0.7.0/singa-core-0.7.0.jar" />
+    <archive path="C:/Users/User/.m2/repository/uk/ac/ebi/beam/beam-core/1.2.1/beam-core-1.2.1.jar" />
+    <archive path="C:/Users/User/.m2/repository/uk/ac/ebi/beam/beam-func/1.2.1/beam-func-1.2.1.jar" />
+    <archive path="C:/Users/User/.m2/repository/bio/singa/singa-sequence/0.7.0/singa-sequence-0.7.0.jar" />
+    <archive path="C:/Users/User/.m2/repository/bio/singa/singa-structure/0.7.0/singa-structure-0.7.0.jar" />
+    <archive path="C:/Users/User/.m2/repository/org/rcsb/mmtf-codec/1.0.8/mmtf-codec-1.0.8.jar" />
+    <archive path="C:/Users/User/.m2/repository/org/rcsb/mmtf-serialization/1.0.8/mmtf-serialization-1.0.8.jar" />
+    <archive path="C:/Users/User/.m2/repository/org/msgpack/jackson-dataformat-msgpack/0.7.1/jackson-dataformat-msgpack-0.7.1.jar" />
+    <archive path="C:/Users/User/.m2/repository/org/msgpack/msgpack-core/0.7.1/msgpack-core-0.7.1.jar" />
+    <archive path="C:/Users/User/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.6.3/jackson-databind-2.6.3.jar" />
+    <archive path="C:/Users/User/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.6.0/jackson-annotations-2.6.0.jar" />
+    <archive path="C:/Users/User/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.6.3/jackson-core-2.6.3.jar" />
+    <archive path="C:/Users/User/.m2/repository/commons-lang/commons-lang/2.4/commons-lang-2.4.jar" />
+    <archive path="C:/Users/User/.m2/repository/org/apache/logging/log4j/log4j-api/2.6.2/log4j-api-2.6.2.jar" />
+    <archive path="C:/Users/User/.m2/repository/org/rcsb/mmtf-api/1.0.8/mmtf-api-1.0.8.jar" />
+    <archive path="C:/Users/User/.m2/repository/org/jfree/jfreesvg/3.3/jfreesvg-3.3.jar" />
+    <archive path="C:/Users/User/.m2/repository/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar" />
+  </library>
+  <library name="javafx-swt">
+    <archive path="C:/Users/User/OneDrive - GIU AS - German International University of Applied Sciences/Desktop/codes/SDK JavaFx/Javasdk intellij/javafx-sdk-22.0.1/lib/javafx-swt.jar" />
+    <archive path="C:/Users/User/OneDrive - GIU AS - German International University of Applied Sciences/Desktop/codes/SDK JavaFx/Javasdk intellij/javafx-sdk-22.0.1/lib/javafx.base.jar" />
+    <archive path="C:/Users/User/OneDrive - GIU AS - German International University of Applied Sciences/Desktop/codes/SDK JavaFx/Javasdk intellij/javafx-sdk-22.0.1/lib/javafx.controls.jar" />
+    <archive path="C:/Users/User/OneDrive - GIU AS - German International University of Applied Sciences/Desktop/codes/SDK JavaFx/Javasdk intellij/javafx-sdk-22.0.1/lib/javafx.fxml.jar" />
+    <archive path="C:/Users/User/OneDrive - GIU AS - German International University of Applied Sciences/Desktop/codes/SDK JavaFx/Javasdk intellij/javafx-sdk-22.0.1/lib/javafx.graphics.jar" />
+    <archive path="C:/Users/User/OneDrive - GIU AS - German International University of Applied Sciences/Desktop/codes/SDK JavaFx/Javasdk intellij/javafx-sdk-22.0.1/lib/javafx.media.jar" />
+    <archive path="C:/Users/User/OneDrive - GIU AS - German International University of Applied Sciences/Desktop/codes/SDK JavaFx/Javasdk intellij/javafx-sdk-22.0.1/lib/javafx.swing.jar" />
+    <archive path="C:/Users/User/OneDrive - GIU AS - German International University of Applied Sciences/Desktop/codes/SDK JavaFx/Javasdk intellij/javafx-sdk-22.0.1/lib/javafx.web.jar" />
+  </library>
+  <library name="javafx-swt">
+    <archive path="C:/Users/User/OneDrive - GIU AS - German International University of Applied Sciences/Desktop/codes/SDK JavaFx/Javasdk intellij/javafx-sdk-22.0.1/lib/javafx-swt.jar" />
+    <archive path="C:/Users/User/OneDrive - GIU AS - German International University of Applied Sciences/Desktop/codes/SDK JavaFx/Javasdk intellij/javafx-sdk-22.0.1/lib/javafx.base.jar" />
+    <archive path="C:/Users/User/OneDrive - GIU AS - German International University of Applied Sciences/Desktop/codes/SDK JavaFx/Javasdk intellij/javafx-sdk-22.0.1/lib/javafx.controls.jar" />
+    <archive path="C:/Users/User/OneDrive - GIU AS - German International University of Applied Sciences/Desktop/codes/SDK JavaFx/Javasdk intellij/javafx-sdk-22.0.1/lib/javafx.fxml.jar" />
+    <archive path="C:/Users/User/OneDrive - GIU AS - German International University of Applied Sciences/Desktop/codes/SDK JavaFx/Javasdk intellij/javafx-sdk-22.0.1/lib/javafx.graphics.jar" />
+    <archive path="C:/Users/User/OneDrive - GIU AS - German International University of Applied Sciences/Desktop/codes/SDK JavaFx/Javasdk intellij/javafx-sdk-22.0.1/lib/javafx.media.jar" />
+    <archive path="C:/Users/User/OneDrive - GIU AS - German International University of Applied Sciences/Desktop/codes/SDK JavaFx/Javasdk intellij/javafx-sdk-22.0.1/lib/javafx.swing.jar" />
+    <archive path="C:/Users/User/OneDrive - GIU AS - German International University of Applied Sciences/Desktop/codes/SDK JavaFx/Javasdk intellij/javafx-sdk-22.0.1/lib/javafx.web.jar" />
+  </library>
+</eclipse-userlibraries>
+
